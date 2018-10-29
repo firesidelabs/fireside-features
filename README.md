@@ -1,3 +1,3 @@
-# Fireside Features
+# Fireside Feature Requests
 
-Feature requests and discussion.
+Click the "Issues" tab above and add your ideas and suggestions for Fireside features.
